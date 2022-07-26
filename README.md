@@ -1,1 +1,1 @@
-implemente a máquina de cartões do jogo Super Banco Imobiliário. Os dados devem ser gravados no LocalStorage.
+implemente a máquina de cartões do Jogo. Os dados devem ser gravados no LocalStorage.
